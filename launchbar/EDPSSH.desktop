@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[pl_PL]=gnome-panel-launcher
+Exec=/home/exu/scripts/ssh_edp_all
+Name[pl_PL]=EDPSSH
+Comment[pl_PL]=Połączenie do serwerów EDP po SSH
+Name=EDP SSH
+Comment=Połączenie do serwerów EDP po SSH
+Icon=/usr/share/icons/Faenza/apps/96/terminator.png

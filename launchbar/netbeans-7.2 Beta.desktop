@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=NetBeans IDE 7.2 Beta
+Comment=The Smarter Way to Code
+Exec=/bin/sh "/home/exu/Appz/netbeans-7.2beta/bin/netbeans"
+Icon=/home/exu/Appz/netbeans-7.2beta/nb/netbeans.png
+Categories=Application;Development;Java;IDE
+Version=1.0
+Type=Application
+Terminal=0
+
